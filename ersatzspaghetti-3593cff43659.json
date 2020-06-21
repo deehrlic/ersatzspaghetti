@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ersatzspaghetti",
+  "private_key_id": "3593cff43659ed94d43c33b257d4f038f7e176b1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCYfahx4z859YC/\nbVloyPx+qwrqGyu2hdCMM2ambUhX1H5AEGfMhS/Stiij3Y1wPWSs38DszGCyTfCO\nyI9Br3xgki/jssL6mY5dWWLyA8sBOSqTk4M9hz8wIfgxX5ig3zhLQRDQPWSabg8k\nzDJ1UUX05gol8D38boQLVgvVigQqNopFT7xEQsBcAEvq3SvClWvUtrtaQr1AUFK4\nEzDMB9vUqRhnWD7lBVLUSMVXmW6Z0p8qtfmNKBmEmBDLakXgPVwNjOOf0vtzlVdM\ngB285+Xa9tn0bOsSZNi1oWnwGkA4Trcw/cB68VHjZ7hDb8svVQeFPM+JqW9fqXmS\nuA7OXLPBAgMBAAECggEACjOQhZtJSzb/Ak9uGtIkqiixKzuJb3ArpSV51DUdZjAj\nXg/QPItwc+1Bx2yhSK/4FeSbgyaiasCcu5Xz7NYGQRj74S9qrISB/1a6hYGhdBcp\n9QN6VS8WGBc9rmKR0w6minTzi1WAGcthHKTDKhFiLQxdWMUQsIbdiJCcwWVhT/Le\n9TLGNLNebO0MgKHQ3HfThjF+BLmpuPgnqK2vMc8wn0BAWciGKHHhIyWackugaTlG\npk/oYqvutI3todf1XEGhWqquJq0uP6rT1LL1bJfZeU7obME5FU8nt1YjBVVfKJbr\nPehW/zCxnMvE6uWYdzPrg/sbzuD0WQCa03MQElkDEQKBgQDTgyfM6L7bTUc4QeJo\nUfmjptqZf+k1Uqf6aJ3hUGSvfHC0paSeO14osnFCuGCrV3DFGsbMybEqj8WQX205\neApQKu0UErYXCZXZfKJh/o3EDV1lQ40fm0CD4Mv80jRhkBRoX+IAvkQkvLqRkrXU\nfc/DFIScUp3u5u3hcpdqXfSjbQKBgQC4kIBfL1vGDgiUHdtwD+7y5lnaNytHlbrW\nWDdT1Vcp3dLGoLz+KnpdeYT4jj7aNxelV0X/oiT4nt/hp28DZwg7Bv/BdV4oJ66r\novoLkar/dfQhlUbDyQeBPLyv4x2QdMMu6EFRkEeICQfxxRMQjWnIQEwnCCIG7Rs1\nK9TXbaNJJQKBgBRjJvn0UTk4OK4ug5FEnYhts9Jp5uOx5OkZHmayZhIYL5DqCnUK\nCehoUsx4kzDQy9jj3NeudTpCA2wIFrIcZPoXOSTfLNgJn30IK2rAq4+DLkZtfXPX\ndh+AEol7BXuF9MGexF0H+e+ElYMkngwuWFFYb/PVbs2xSqqZbgjdp4/9AoGAU26v\nOVg1SnDpm9traVsqj49mKukpnXCoR2EVkcYtYvWt5LCg/tzA+CSI4bub2hVxkQLE\n1+y6fdGEL4P7ATTAWb6uOwwNhmV55okEM9qjzFvMAqpylOr5g4irW2912+mMmlXP\nwUlRrMM4XijSl3b1zNqUEkjw6OSimgS4cLJVUCkCgYAr/x7bBTL+7qGCzvZ8cu8S\nV2fRTz9zD5PcXoy1mP++oQarBpAFh6tLEPtyX6OWH6jZyrXH+Df6S3LLwDKmDva/\ns+i76UQAN6s+0vOY665zZnKvrLpS+G1/cnzrxmPmQmuKUje/nvcK+upuqoGRCiJM\nYnDkLmtPrCTXIhk1WJ5fdg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ersatz@ersatzspaghetti.iam.gserviceaccount.com",
+  "client_id": "100831820092775937938",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ersatz%40ersatzspaghetti.iam.gserviceaccount.com"
+}
