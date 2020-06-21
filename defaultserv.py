@@ -2,7 +2,7 @@ from flask import Flask, render_template, request, send_file
 from google.cloud import texttospeech
 import csv, random, os
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "ersatzspaghetti-3593cff43659.json"
+
 
 app = Flask(__name__)
 client = texttospeech.TextToSpeechClient()
